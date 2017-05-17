@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beez.Web", "Src\Web\www\Beez.Web\Beez.Web.csproj", "{051358C0-01B7-4B3E-AAF6-758D514FAE5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee.Web.UnitTests", "Src\Web\UnitTests\Bee.Web.UnitTests\Bee.Web.UnitTests.csproj", "{F1BADCD2-2523-4D23-9C6C-189BB5D9C9F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{051358C0-01B7-4B3E-AAF6-758D514FAE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{051358C0-01B7-4B3E-AAF6-758D514FAE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{051358C0-01B7-4B3E-AAF6-758D514FAE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BADCD2-2523-4D23-9C6C-189BB5D9C9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BADCD2-2523-4D23-9C6C-189BB5D9C9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BADCD2-2523-4D23-9C6C-189BB5D9C9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BADCD2-2523-4D23-9C6C-189BB5D9C9F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
