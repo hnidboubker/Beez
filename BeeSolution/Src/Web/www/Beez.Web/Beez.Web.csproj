@@ -786,6 +786,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Assets\elements\" />
+    <Folder Include="Assets\helpers\" />
+    <Folder Include="Assets\plugging\" />
+    <Folder Include="Assets\Themes\" />
     <Folder Include="Domain\" />
   </ItemGroup>
   <ItemGroup>
