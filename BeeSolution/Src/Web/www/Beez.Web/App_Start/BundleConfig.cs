@@ -30,8 +30,13 @@ namespace Beez.Web
                 "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                 "~/Content/bootstrap.css",
-                 "~/Content/Site.css"));
+                 "~/Content/bootstrap.css"
+              
+                 ));
+            bundles.Add(new StyleBundle("~/Content/vendors").Include(
+                "~/Assets/themes/base.css",
+                "~/Assets/themes/layout.css"
+                ));
         }
     }
 }
