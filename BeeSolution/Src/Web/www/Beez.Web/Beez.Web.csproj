@@ -214,6 +214,7 @@
     <Content Include="Assets\helpers\colors.css" />
     <Content Include="Assets\Themes\base.css" />
     <Content Include="Assets\Themes\layout.css" />
+    <Content Include="Assets\Themes\pages.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -727,11 +728,6 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\app\_run.js" />
-    <Content Include="Scripts\app\app.datamodel.js" />
-    <Content Include="Scripts\app\app.viewmodel.js" />
-    <Content Include="Scripts\app\common.js" />
-    <Content Include="Scripts\app\home.viewmodel.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
